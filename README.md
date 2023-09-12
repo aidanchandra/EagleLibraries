@@ -6,7 +6,7 @@ I claim no credit for their creation unless specified.
 
 | **Category** | **Library Name** | **Description** |
 |-------|-------|----|
-|  Connectors | [jst-sh.lbr](Connectors/jst-sh.lbr) | JST-SH 3-pin and 4-pin horizontal and vertical connectors (created)|
+|  Connectors | [jst-sh.lbr](Connectors/jst-sh.lbr) | JST-SH 3-pin and 4-pin horizontal and vertical connectors ([datasheet](https://www.jst-mfg.com/product/pdf/eng/eSH.pdf)) (created)|
 |  Connectors | [XT60-M.lbr](Connectors/XT60-M.lbr) | XT60 (Standard large lipo battery connector) |
 |  FETs | [BSC010NE2LSI.lbr](FETs/BSC010NE2LSI.lbr) | Typical SMD N-Channel Mosfet Package |
 |  ICs | [TS5A4596.lbr](ICs/TS5A4596.lbr) | Single-pole single-throw (SPST) analog switch |
